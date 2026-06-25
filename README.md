@@ -1,4 +1,4 @@
-# Hey, I'm Chlorida (*￣3￣)╭
+# (*￣3￣)╭ Hey, I'm Chlorida
 
 **Desktop Software Engineer** focused on building high-performance desktop applications with modern web technologies.
 
